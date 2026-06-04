@@ -12,7 +12,7 @@
 #quicklinks .down05_btn:hover{cursor:pointer;background:url("../images/fast_down5_hover.png"/*tpa=http://p42c.42mir.com/images/fast_down5_hover.png*/) no-repeat center center;-moz-transition: all 1s ease 0s; -webkit-transition:all 1s ease 0s; transition:all 1s ease 0s; -o-transition:all 1s ease 0s}
 
 
-#m1{height:1000px;position:relative;min-width:1280px;margin:0 auto;padding-top:0px;background:url("../images/bg_02.jpg"/*tpa=http://p42c.42mir.com/images/bg_02.jpg*/) no-repeat center top;}
+#m1{height:1000px;width:100%;min-width:1200px;margin:0 auto;position:relative;overflow:hidden;background:#000;}
 #m1 .flash{width:1920px;height:1000px;position:absolute;left:50%;margin:0px auto -272px -961px;z-index:50;}
 #m2{height:1000px;position:relative;min-width:1280px;margin:0 auto;padding-top:0px;background:url("../images/bg_03.jpg"/*tpa=http://p42c.42mir.com/images/bg_03.jpg*/) no-repeat center top;}
 #m2 .flash{width:1920px;height:1000px;position:absolute;left:50%;margin:0px auto -272px -961px;z-index:50;}
