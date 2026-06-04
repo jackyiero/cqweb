@@ -12,7 +12,7 @@ _sdgCopyrightHtml +=''
 +'<param value="transparent" name="wmode">'
 +' <param value="true" name="loop">'
 +' <param value="high" name="quality">'
-+' <video src="Top/flash/banner.mp4" class="video-bg" autoplay loop muted></video>'
++' <video src="Top/flash/banner.mp4" class="video-bg" style="width:100%; height:100%; object-fit: cover;" autoplay loop muted></video>'
 +'</object>' + '</div>' + '</div>'
 
 document.write(_sdgCopyrightHtml);
